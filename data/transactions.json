@@ -1,0 +1,20 @@
+[
+  {
+    "id": "TRX-20251022-1761109535391",
+    "timestamp": "2025-10-22T05:05:35.391Z",
+    "userId": 1,
+    "items": [
+      {
+        "productId": 1761109497053,
+        "name": "345435",
+        "price": 23423423,
+        "qty": 3,
+        "subtotal": 70270269
+      }
+    ],
+    "totalAmount": 70270269,
+    "paymentMethod": "qris",
+    "amountReceived": 70270269,
+    "change": 0
+  }
+]

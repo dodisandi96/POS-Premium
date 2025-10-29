@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "name": "minuman",
+    "description": "Soft drinks, juices, and water"
+  },
+  {
+    "id": 2,
+    "name": "makanan",
+    "description": "Chips, cookies, and candies"
+  }
+]
